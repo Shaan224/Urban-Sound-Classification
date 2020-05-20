@@ -27,6 +27,8 @@ ten classes, namely
 
 * street music.
 
+[Competition Link](https://datahack.analyticsvidhya.com/contest/practice-problem-urban-sound-classification)
+
 # Sound Analysis
 
 In sound analysis, one can either analyze the raw sound files directly or convert
