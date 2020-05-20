@@ -120,5 +120,5 @@ the right.
 
 To extract features from our dataset (dimensionality reduction), I used a spectrogram in the CNN case, and Mel Frequency Ceptral Coefficients (MFCCs) for FNN and RNN. For RNN I mainly tried the Long Short-Term Memory (LSTM) network and the Gated Recurrent Unit (GRU) network.
 
-All the neural networks were more or less able to recognize the training set, but it was a significantly difference in validation accuracy. FNN provided the highest validation accuracy of 92.37% and Training accuracy of 91%.
+All the neural networks were more or less able to recognize the training set, but it was a significantly difference in validation accuracy. FNN provided the highest validation accuracy of 92.37% and Training accuracy of 98.25%.
 
